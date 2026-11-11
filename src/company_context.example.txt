@@ -1,0 +1,29 @@
+Acme Signals: Customer Journey Analytics (EXAMPLE CONTEXT)
+
+This is a fictional sample. Copy it to src/company_context.txt (or point COMPANY_CONTEXT_PATH at your own file) and replace it with your product's real positioning. The draft generator injects this file into every prompt, so the model only pitches what is written here.
+
+1. CORE VALUE PROPOSITION
+Acme Signals connects a customer's touchpoints (ad clicks, email opens, website visits, webinar signups) into one journey, so growth teams can see which channels actually lead to revenue instead of guessing.
+
+Example: A SaaS company runs ads, sends newsletters and hosts webinars. Without journey stitching it sees three separate "users." Acme Signals links them into one customer and shows the path: ad click -> newsletter open -> webinar -> trial.
+
+2. KEY PRODUCTS AND FEATURES
+Journey Graph: Links events from web, email and CRM into a single customer timeline.
+Attribution Reports: Shows which channel sequences precede conversions.
+Weekly Digest: Emails each channel owner the three changes worth acting on.
+
+3. TARGET CLIENTS (IDEAL USER SEGMENTS)
+SaaS & Growth-Stage Startups: Teams running several acquisition channels who cannot tell which ones convert.
+E-commerce Brands: Stores with high repeat traffic across devices.
+
+4. QUANTIFIABLE IMPACT
+Do not invent numbers. Only cite metrics listed here. (Example placeholder: none yet.)
+
+5. RESOURCE DIRECTORY
+Main Website: example.com
+Docs: docs.example.com
+
+IMPORTANT RULES FOR EMAIL GENERATION:
+- Never claim results, customers or integrations that are not listed above.
+- Focus on the prospect's likely problem first, then one relevant capability.
+- Keep the core pitch simple: "Your customer data is split across channels. We connect it so you can see what actually converts."

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "prospectEmail": "jane.doe@example.com",
+    "prospectName": "Jane",
+    "prospectRole": "Head of Growth",
+    "prospectCompany": "Example Corp",
+    "subject": "Seeing which channels actually convert at Example Corp",
+    "body": "Hi Jane,\n\nSaw your Hacker News comment about running ads, newsletters and webinars without knowing which one drives trials. That is exactly the gap Acme Signals closes: we link each customer's touchpoints into one journey so you can see the path that converts.\n\nIf that's useful, just reply and I'll send a one-page example built on a setup like yours.\n\nBest,\nAlex",
+    "rationale": "Subject: names their company and the outcome they care about.\n\nLine 1: quotes the prospect's own words from the thread so the email is clearly not generic.\n\nLine 2: one capability tied directly to their stated problem.\n\nCTA: low-pressure reply, matching the 'reply' CTA setting.",
+    "variant": "short",
+    "cta": "reply",
+    "status": "drafted",
+    "threadUrl": "https://news.ycombinator.com/item?id=000000",
+    "sourceContext": "We run ads, a newsletter and monthly webinars, and honestly have no idea which one gets people to start a trial. Reach me at jane [dot] doe [at] example [dot] com",
+    "createdAt": "2026-02-26T10:00:00.000Z",
+    "updatedAt": "2026-02-26T10:00:00.000Z",
+    "sentAt": null
+  },
+  {
+    "id": "e5f6a7b8",
+    "prospectEmail": "sam@example.org",
+    "prospectName": "Sam",
+    "prospectRole": "CTO",
+    "prospectCompany": "Sample Labs",
+    "subject": "Quick idea for Sample Labs' signup funnel",
+    "body": "Hi Sam,\n\nYour post mentioned users bouncing between your docs, blog and app before signing up. Acme Signals stitches those visits into one timeline per user, so you can see which docs pages actually lead to signups.\n\nWould a 15-minute call next week be worth it?\n\nBest,\nAlex",
+    "rationale": "Subject: short and specific to their funnel.\n\nLine 1: references the technical detail they shared publicly.\n\nLine 2: maps one product feature onto that detail.\n\nCTA: a short call, matching the 'call' CTA setting.",
+    "variant": "short",
+    "cta": "call",
+    "status": "approved",
+    "threadUrl": "https://news.ycombinator.com/item?id=000000",
+    "sourceContext": "Most of our users read the docs and blog before signing up, but we can't connect those visits. sam (at) example (dot) org",
+    "createdAt": "2026-02-26T10:05:00.000Z",
+    "updatedAt": "2026-02-26T10:20:00.000Z",
+    "sentAt": null
+  }
+]

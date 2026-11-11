@@ -1,0 +1,27 @@
+{
+  "name": "cold-email",
+  "version": "1.0.0",
+  "description": "HN thread email prospecting pipeline powered by OpenAI + AWS SES.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "cli": "node src/cliEntry.js",
+    "outreach": "node src/cliEntry.js",
+    "lint": "node --check src/*.js"
+  },
+  "keywords": [
+    "hacker-news",
+    "openai",
+    "ses",
+    "email"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.940.0",
+    "dotenv": "^17.2.3",
+    "node-html-parser": "^7.0.1",
+    "openai": "^6.9.1"
+  }
+}

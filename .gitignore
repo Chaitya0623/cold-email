@@ -1,0 +1,11 @@
+node_modules
+.env
+.DS_Store
+.npmrc
+
+
+# Private originals (kept locally, never published). Safe samples are committed instead:
+#   data/drafts.example.json, src/company_context.example.txt
+data/drafts.json
+src/company_context.txt
+src/Identity Resolution 2 0 The Missing Layer Between  c7b8afb402c84c58b219f8caf57c1e17.md
