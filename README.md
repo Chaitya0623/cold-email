@@ -2,8 +2,6 @@
 
 ![Architecture](docs/architecture.png)
 
-**Credits:** the Hacker News ingestion and hybrid email extraction (stages 01–02) were built by Ling Qing Meng. The personalized drafting, human-review CLI, draft store and approved-only SES delivery (stages 03–05) were added by [Chaitya Shah](https://github.com/Chaitya0623).
-
 **Sample data:** real drafts and the real company context are kept private. To run locally, start from the committed samples:
 
 ```bash
